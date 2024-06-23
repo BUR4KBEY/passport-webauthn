@@ -1,5 +1,5 @@
 {
-  "name": "passport-fido2-webauthn",
+  "name": "@burakbey/passport-fido2-webauthn",
   "version": "0.1.0",
   "description": "WebAuthn authentication strategy for Passport.",
   "keywords": [
@@ -10,21 +10,13 @@
     "passkeys",
     "yubikey"
   ],
-  "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "https://www.jaredhanson.me/"
-  },
+  "author": "BurakBey",
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-webauthn.git"
+    "url": "git://github.com/BUR4KBEY/passport-webauthn.git"
   },
   "bugs": {
-    "url": "https://github.com/jaredhanson/passport-webauthn/issues"
-  },
-  "funding": {
-    "type": "github",
-    "url": "https://github.com/sponsors/jaredhanson"
+    "url": "https://github.com/BUR4KBEY/passport-webauthn/issues"
   },
   "license": "MIT",
   "licenses": [
