@@ -6,6 +6,12 @@ In scenarios where frontend and backend applications are separated and run on di
 
 This fork introduces the environment variable `PASSPORT_FIDO2_WEBAUTHN_ALLOWED_ORIGINS`, allowing specification of acceptable origins. By default, the original behavior remains active. You can specify allowed origins by listing them with spaces as separators. For example, setting `PASSPORT_FIDO2_WEBAUTHN_ALLOWED_ORIGINS=https://domain.tld https://example.com` will permit both `https://domain.tld` and `https://example.com` to pass through the validator.
 
+## ☕ Support
+
+If you find this project useful and would like to support [me](https://github.com/BUR4KBEY), you can do so by visiting [my website](https://burakbey.dev).
+
+<a href="https://burakbey.dev" target="_blank"><img src="https://burakbey.dev/github_support_snippet.png" style="height: 56px !important;width: 200px !important;" alt="Buy me a coffee"></img></a>
+
 ---
 
 [Passport](https://www.passportjs.org/) strategy for authenticating
